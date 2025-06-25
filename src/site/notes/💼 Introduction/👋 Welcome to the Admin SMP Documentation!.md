@@ -16,8 +16,8 @@ Shows the system of this documentation website.
 
 ### 🌍👯 Map and Members
 The members and around the map!
-> [[💻 system_categories/💼 Introduction\|Check it out >]]
+> [[💻 system_categories/🌍👯 Map and Members\|Check it out >]]
 
 ### 📜 Rules
 Rules that you **must** follow!
-> [[💻 system_categories/💼 Introduction\|Check it out >]]
+> [[|Check it out >]]
