@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/introduction/categories/","tags":["Introduction","gardenEntry"]}
+{"dg-publish":true,"permalink":"/introduction/categories/","tags":["Introduction"]}
 ---
 
 We seperate everything in this website with **categories**! Like how this [[💼 Introduction/🏷️ Categories\|🏷️ Categories]] is in #Introduction!
