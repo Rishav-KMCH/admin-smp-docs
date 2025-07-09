@@ -1,9 +1,12 @@
-# Digital Obsidian Garden
-This is the template to be used together with the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden). 
-See the README in the plugin repo for information on how to set it up.
+# 📄 Admin SMP Docs
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/oleeskild/digitalgarden)
+Contains every rules and information about Admin SMP.
 
 ---
-## Docs
-Docs are available at [dg-docs.ole.dev](https://dg-docs.ole.dev/)
+## 🗣️ Credits
+- **[Obsidian](obsidian.md)** for being the one to write all these docs in
+- **[Obsidian Digital Garden Plugin](dg-docs.ole.dev)** for being the one that turned the Obsidian notes into a website
+- **[Netlify](netlify.app)** for being the subdomain hosting provider
+- **Wanderloots** for being the one who taught me through a YouTube video
+  - [his digital garden](wanderloots.xyz)
+  - [youtube channel](youtube.com/@Wanderloots) 
